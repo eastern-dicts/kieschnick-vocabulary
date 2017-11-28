@@ -1,15 +1,15 @@
 ## Complete Chinese-English Vocabulary for 'A Primer in Chinese Buddhist Writings'
 
- "name": "Kieschnick, Vocabulary",
+ "name": "Kieschnick Vocabulary"
 
-"path": "primer",
+"path": "primer"
 
-"url": "https: //religiousstudies.stanford.edu/people/john-kieschnick/primer-chinese-buddhist-writings",
+"url": "https: //religiousstudies.stanford.edu/people/john-kieschnick/primer-chinese-buddhist-writings"
 
-"descr":  "Complete Chinese-English Vocabulary for 'A Primer in Chinese Buddhist Writings'",
+"descr":  "Complete Chinese-English Vocabulary for 'A Primer in Chinese Buddhist Writings'"
 
-"license":  "unknown yet",
+"license":  "unknown yet"
 
-"editor":  "Peter Hauer",
+"editor":  "Peter Hauer"
 
 "author":  "John Kieschnick"
